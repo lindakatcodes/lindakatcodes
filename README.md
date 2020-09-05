@@ -1,16 +1,20 @@
-### Hi there 👋
+# Thanks for stopping by 👋!
 
-<!--
-**lindakatcodes/lindakatcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Linda (she/her), a friendly and analytical web developer building with design, data, and details in mind!
 
-Here are some ideas to get you started:
+**I'm available to hire!**
+I'm looking for my first front end developer position! I'm looking for a company that values open communication between co-workers and management, room to grow and learn, and is working on a product that will benefit others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's my resume if you're interested!
+
+[Linda's Resume](https://drive.google.com/file/d/1VPrD-VNHA-gQZOnvadOtQITEZ4ggD8kb/edit)
+
+You can also learn more about my background, see demos of my projects, and read my writing on [my personal site](https://www.lindakat.com). The repo for my site is below, if you're curious about the code!
+
+## Currently Working On
+
+I'm trying to decide what my next project will be! I've been learning GraphQL, will be doing a Rust speed run soon (I think!), and always want to improve my JS skills - I'm getting decent with Vue, but would like to use React soon too. I have a few ideas, just thinking through what I want to focus on next!
+
+## Social Links
+
+You can find me on Twitter, Dev.to, and CodePen @lindakatcodes! Feel free to connect with me!
