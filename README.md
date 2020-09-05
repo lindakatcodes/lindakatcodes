@@ -11,9 +11,16 @@ Here's my resume if you're interested!
 
 You can also learn more about my background, see demos of my projects, and read my writing on [my personal site](https://www.lindakat.com). The repo for my site is below, if you're curious about the code!
 
-[![Linda's github stats](https://github-readme-stats.vercel.app/api?username=lindakatcodes&count_private=true&show_icons=true&theme=nightowl&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lindakatcodes&count_private=true&show_icons=true&theme=nightowl&hide=contribs" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Linda's github stats](https://github-readme-stats.vercel.app/api?username=lindakatcodes&count_private=true&show_icons=true&theme=nightowl&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Currently Working On
 
