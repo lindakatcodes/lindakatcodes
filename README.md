@@ -11,6 +11,8 @@ Here's my resume if you're interested!
 
 You can also learn more about my background, see demos of my projects, and read my writing on [my personal site](https://www.lindakat.com). The repo for my site is below, if you're curious about the code!
 
+[![Linda's github stats](https://github-readme-stats.vercel.app/api?username=lindakatcodes)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Currently Working On
 
 I'm trying to decide what my next project will be! I've been learning GraphQL, will be doing a Rust speed run soon (I think!), and always want to improve my JS skills - I'm getting decent with Vue, but would like to use React soon too. I have a few ideas, just thinking through what I want to focus on next!
