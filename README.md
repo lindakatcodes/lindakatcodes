@@ -17,6 +17,7 @@ You can also learn more about my background, see demos of my projects, and read 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl&layout=compact" />
 </a>
+----
 
 <!-- [![Linda's github stats](https://github-readme-stats.vercel.app/api?username=lindakatcodes&count_private=true&show_icons=true&theme=nightowl&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
