@@ -1,4 +1,4 @@
-# ![Black background with pastel rainbow gradient border, says Linda Thompson - your friendly neighborhood web developer](./GitHub-Header.jpg)
+# ![Black background with pastel rainbow gradient border, says Linda Thompson - your friendly neighborhood web developer](GitHub-Header.jpg)
 
 ## Thanks for stopping by 👋!
 
