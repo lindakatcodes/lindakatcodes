@@ -9,14 +9,15 @@ I'm Linda (she/her)! I love working with data, details, and design to build fun 
 ## Social Links
 
 I highly recommend that you check out my personal site, **[lindakat.com](https://www.lindakat.com)**!
+<br>
 You'll find demos of projects I've worked on, all my technical writings, and a bit more about me there.
 
 If you'd like to find me elsewhere online, check these sites:
 
 Twitter - [@lindakatcodes](https://twitter.com/lindakatcodes)
-
+<br>
 Dev - [@lindakatcodes](https://dev.to/lindakatcodes)
-
+<br>
 CodePen - [@lindakatcodes](https://codepen.io/lindakatcodes)
 
 ----
@@ -41,4 +42,6 @@ My laptop is an HP Pavilion 17" from 2017. I....couldn't even tell you what my d
 
 ----
 
-## You are headed down your path at your own pace, and with every obstacle you are trying your utmost best. Be patient with yourself, and remember that big things are achieved not all at once, but one day at a time.
+## ~ You are headed down your path at your own pace, and with every obstacle you are trying your utmost best. Be patient with yourself, and remember that big things are achieved not all at once, but one day at a time. ~
+
+*- Unknown*
