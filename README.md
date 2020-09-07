@@ -43,5 +43,3 @@ My laptop is an HP Pavilion 17" from 2017. I....couldn't even tell you what my d
 ----
 
 ## ~ You are headed down your path at your own pace, and with every obstacle you are trying your utmost best. Be patient with yourself, and remember that big things are achieved not all at once, but one day at a time. ~
-
-*- Unknown*
