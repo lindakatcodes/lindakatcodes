@@ -1,29 +1,39 @@
-# Thanks for stopping by 👋!
+# ![Black background with pastel rainbow gradient border, says Linda Thompson - your friendly neighborhood web developer](./GitHub-Header.jpg)
 
-I'm Linda (she/her), a friendly and analytical web developer building with design, data, and details in mind!
+## Thanks for stopping by 👋!
+
+I'm Linda (she/her)! I love working with data, details, and design to build fun things for the web. Ultimately, I want to work on projects that help make the world a better place.
+
+----
+
+## Social Links
+
+I highly recommend that you check out my personal site, [lindakat.com](https://www.lindakat.com)! You'll find demos of projects I've worked on, all my technical writings, and a bit more about me there.
+
+If you'd like to find me elsewhere online, check these sites:
+
+Twitter - [@lindakatcodes](https://twitter.com/lindakatcodes)
+
+Dev - [@lindakatcodes](https://dev.to/lindakatcodes)
+
+CodePen - [@lindakatcodes](https://codepen.io/lindakatcodes)
+
+----
 
 > **🌟 I'm available to hire! 🌟**
 
-I'm looking for my first front end developer position! I'm looking for a company that values open communication between co-workers and management, room to grow and learn, and is working on a product that will benefit others.
+I'm looking for a company that values open communication between co-workers and management, room to grow and learn, and is working on a product that will benefit others.
 
 Here's my resume if you're interested!
 
 📄 [Linda's Resume](https://drive.google.com/file/d/1VPrD-VNHA-gQZOnvadOtQITEZ4ggD8kb/edit)
 
-You can also learn more about my background, see demos of my projects, and read my writing on [my personal site](https://www.lindakat.com). The repo for my site is pinned, if you're curious about the code!
+----
 
-## Currently Working On
-
-I'm trying to decide what my next project will be! I've been learning GraphQL, will be doing a Rust speed run soon (I think!), and always want to improve my JS skills - I'm getting decent with Vue, but would like to use React soon too. I have a few ideas, just thinking through what I want to focus on next!
+## Uses
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl&layout=compact&card_width=255)](https://github.com/anuraghazra/github-readme-stats)
 
-## Social Links
+I do all my code work in VS Code. I alternate between Overnight Slumber Italics, Night Owl and Panda themes. The bracket pair colorize extension is a must!
 
-Feel free to connect with me!
-
-Twitter <img src="https://simpleicons.org/icons/twitter.svg" width=20 align="center"> - [@lindakatcodes](https://twitter.com/lindakatcodes)
-
-Dev <img src="https://simpleicons.org/icons/dev-dot-to.svg" width=20 align="center"> - [@lindakatcodes](https://dev.to/lindakatcodes)
-
-CodePen <img src="https://simpleicons.org/icons/codepen.svg" width=20 align="center"> - [@lindakatcodes](https://codepen.io/lindakatcodes)
+My laptop is an HP Pavilion 17" from 2017. I....couldn't even tell you what my desktop computer is. lol And I have no cool desk setup to write about...yet! I'll update this once that all changes.
