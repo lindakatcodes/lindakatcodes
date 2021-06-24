@@ -22,16 +22,6 @@ CodePen - [@lindakatcodes](https://codepen.io/lindakatcodes)
 
 ----
 
-**🌟 I'm available to hire! 🌟**
-
-I'm looking for a company that values open communication between co-workers and management, room to grow and learn, and is working on a product that will benefit others.
-
-Here's my resume if you're interested!
-
-📄 [Linda's Resume](https://drive.google.com/file/d/1VPrD-VNHA-gQZOnvadOtQITEZ4ggD8kb/edit)
-
-----
-
 ## Uses
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl&layout=compact&card_width=255)](https://github.com/anuraghazra/github-readme-stats)
