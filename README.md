@@ -16,11 +16,12 @@ You'll find demos of projects I've worked on, all my technical writings, and a b
 
 ## Uses
 
+At home I'm a Windows user. I just got a new Lenovo Legion laptop to use as my main coding machine! I also use VSCode as my editor of choice. But remember - do and use what works best for you! There is no "perfect" tool - just the one that allows you to do what you're trying to do best. 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl&layout=compact&card_width=255)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindakatcodes&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-At home I'm a Windows user. I just got a new Lenovo Legion laptop to use as my main coding machine! I also use VSCode as my editor of choice. But remember - do and use what works best for you! There is no "perfect" tool - just the one that allows you to do what you're trying to do best. 
 ----
 
 ## ~ You are headed down your path at your own pace, and with every obstacle you are trying your utmost best. Be patient with yourself, and remember that big things are achieved not all at once, but one day at a time. ~
