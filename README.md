@@ -20,7 +20,5 @@ At home I'm a Windows user. I just got a new Lenovo Legion laptop to use as my m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lindakatcodes&hide=PHP&count_private=true&show_icons=true&theme=nightowl&layout=compact&card_width=255)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Linda's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindakatcodes&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
 ----
-**You are headed down your path at your own pace, and with every obstacle you are trying your utmost best. Be patient with yourself, and remember that big things are achieved not all at once, but one day at a time.**
+### **You are headed down your path at your own pace, and with every obstacle you are trying your utmost best. Be patient with yourself, and remember that big things are achieved not all at once, but one day at a time.**
